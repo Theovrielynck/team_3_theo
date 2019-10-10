@@ -4,6 +4,6 @@
     font-family: 'Montserrat', sans-serif;
 }
 
-#img1 {
+.img-fluid {
     border-radius: 20px;
 }
