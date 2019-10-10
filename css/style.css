@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#img1 {
+    border-radius: 20px;
+}
